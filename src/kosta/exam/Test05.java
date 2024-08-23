@@ -1,8 +1,8 @@
 package kosta.exam;
 
 public class Test05 {
-	void test() {
-		System.out.println("test5 수정");
+	void test01() {
+		System.out.println("바꿧다");
 		
 	}
 }
